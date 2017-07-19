@@ -30,6 +30,11 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "header",
   "nameIsFixed": false,
+  "overrides": {
+    "2832E5DB-F104-42BF-9AD6-CE7AFE1321CB": {
+      "symbolID": ""
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
